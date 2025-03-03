@@ -32,6 +32,7 @@ The dataset contains insights on salary trends, in-demand skills, and optimal sk
 
 
 ### **Best Skill Combinations**  
-C:\Users\DELL\Downloads\optimal_skills.png  
+![Optimal Skills](https://github.com/AjumalAsharaf/VSCODE/blob/main/optimal_skills.png?raw=true)
+
 
 
