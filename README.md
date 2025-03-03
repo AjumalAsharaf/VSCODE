@@ -16,23 +16,18 @@ The dataset contains insights on salary trends, in-demand skills, and optimal sk
 ## Insights & Visualizations  
 
 ### **Top Paying Jobs**  
-![Top Paying Jobs](https://your-image-link.com/top_paying_jobs.png)  
+C:\Users\DELL\Downloads\top_paying_jobs.png
 
 ### **Skills Required for Top Jobs**  
-![Top Paying Jobs Skills](https://your-image-link.com/top_paying_jobs_skills.png)  
+C:\Users\DELL\Downloads\top_paying_jobs_skills.png
 
 ### **Most Demanded Skills**  
-![Top Demanding Skills](https://your-image-link.com/top_demanding_skills.png)  
+C:\Users\DELL\Downloads\top_demanding_skills.png 
 
 ### **Highest Paying Skills**  
-![Top Paying Skills](https://your-image-link.com/top_paying_skills.png)  
+C:\Users\DELL\Downloads\top_paying_skills.png 
 
 ### **Best Skill Combinations**  
-![Optimal Skill Combinations](https://your-image-link.com/optimal_skills.png)  
+C:\Users\DELL\Downloads\optimal_skills.png  
 
-## How to Use  
-### **Running SQL Queries**  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+
