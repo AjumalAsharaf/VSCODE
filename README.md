@@ -28,7 +28,8 @@ The dataset contains insights on salary trends, in-demand skills, and optimal sk
 
 
 ### **Highest Paying Skills**  
-C:\Users\DELL\Downloads\top_paying_skills.png 
+![Top Paying Skills](https://github.com/AjumalAsharaf/VSCODE/blob/main/top_paying_skills.png?raw=true)
+
 
 ### **Best Skill Combinations**  
 C:\Users\DELL\Downloads\optimal_skills.png  
