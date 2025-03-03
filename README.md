@@ -16,3 +16,5 @@ The dataset contains insights on salary trends, in-demand skills, and optimal sk
    ```sh
    git clone https://github.com/your-username/repository-name.git
    cd repository-name
+2. Import the dataset into your SQL database (MySQL, PostgreSQL, etc.).
+3. Execute the queries in the respective SQL files to extract insights.
