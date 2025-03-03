@@ -10,3 +10,9 @@ The dataset contains insights on salary trends, in-demand skills, and optimal sk
 - **3_top_demanding_skills.sql** → Identifies the most in-demand skills.  
 - **4_top_paying_skills.sql** → Highlights the highest-paying skills.  
 - **5_optimal_skills.sql** → Recommends the best skill combinations for maximizing salary. 
+## How to Use  
+### **Running SQL Queries**  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-username/repository-name.git
+   cd repository-name
