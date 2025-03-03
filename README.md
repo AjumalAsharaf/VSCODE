@@ -21,5 +21,41 @@ This project explores the **highest-paying remote Data Analyst roles** and the *
 
 ### 🏆 **Top Paying Remote Jobs**  
 - **Highest-Paying Role**: [AT&T] **Associate Director- Data Insights** ($255,829/year).  
-- **Runner-Ups
+- **Runner-Ups**:  
+  - [Pinterest] Data Analyst, Marketing ($232,423/year).  
+  - [SmartAsset] Principal Data Analyst ($205,000/year).  
 
+### 🛠️ **Skills for Top-Paying Jobs**  
+| Skill | Demand Count |  
+|-------|--------------|  
+| SQL | 8 |  
+| Python | 7 |  
+| Tableau | 6 |  
+| R | 4 |  
+| Snowflake, Pandas, Excel | 3 |  
+
+### 🔥 **Most In-Demand Skills**  
+1. **SQL** (Highest demand for remote roles).  
+2. **Python** (Key for automation and analytics).  
+3. **Tableau** (Leading visualization tool).  
+
+### 💎 **Highest-Paying Skills**  
+| Skill | Average Salary |  
+|-------|----------------|  
+| PySpark | $208,000 |  
+| DataRobot | $155,000 |  
+| Jupyter | $152,000 |  
+| Pandas | $151,000 |  
+| Scikit-Learn | $125,000 |  
+
+### 🔗 **Optimal Skill Combinations**  
+- **Top Combo**: **SQL + Python + Tableau** (High demand + salary).  
+- **Emerging Skills**: **PySpark, Snowflake, AWS/Azure** (Cloud and Big Data focus).  
+
+---
+
+## 🚀 How to Use This Project  
+
+1. **Clone the repository**:  
+   ```bash
+   git clone [your-repo-url]
