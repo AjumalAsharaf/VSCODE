@@ -11,7 +11,7 @@ This project explores the **highest-paying remote Data Analyst roles** and the *
 |-----------|--------------|  
 ![Top Paying Jobs](https://github.com/AjumalAsharaf/VSCODE/blob/main/top_paying_jobs.png?raw=true)
 | Identifies the **top 10 highest-paying remote Data Analyst jobs** with salaries. |  
-(https://github.com/AjumalAsharaf/VSCODE/blob/main/top_paying_jobs_skills.png?raw=true) | Maps **skills required for top-paying roles** (e.g., SQL, Python, Tableau). |  
+![Top Paying Jobs Skills](https://github.com/AjumalAsharaf/VSCODE/blob/main/top_paying_jobs_skills.png?raw=true)  | Maps **skills required for top-paying roles** (e.g., SQL, Python, Tableau). |  
 ![Top Demanding Skills](https://github.com/AjumalAsharaf/VSCODE/blob/main/top_demanding_skills.png?raw=true) | Highlights the **most in-demand skills** for remote Data Analysts. |  
 ![Top Paying Skills](https://github.com/AjumalAsharaf/VSCODE/blob/main/top_paying_skills.png?raw=true) | Analyzes **highest-paying skills** (e.g., PySpark, DataRobot). |  
 ![Optimal Skills](https://github.com/AjumalAsharaf/VSCODE/blob/main/optimal_skills.png?raw=true) | Recommends **optimal skills** balancing high demand and salary. |  
