@@ -9,7 +9,7 @@ This project explores the **highest-paying remote Data Analyst roles** and the *
 
 | File Name | Description |  
 |-----------|--------------|  
-| [`1_top_paying_jobs.sql`](1_top_paying_jobs.sql) | Identifies the **top 10 highest-paying remote Data Analyst jobs** with salaries. |  
+|(https://github.com/AjumalAsharaf/VSCODE/blob/main/top_paying_jobs.png?raw=true)  | Identifies the **top 10 highest-paying remote Data Analyst jobs** with salaries. |  
 | [`2_top_paying_jobs_skills.sql`](2_top_paying_jobs_skills.sql) | Maps **skills required for top-paying roles** (e.g., SQL, Python, Tableau). |  
 | [`3_top_demanding_skills.sql`](3_top_demanding_skills.sql) | Highlights the **most in-demand skills** for remote Data Analysts. |  
 | [`4_top_paying_skills.sql`](4_top_paying_skills.sql) | Analyzes **highest-paying skills** (e.g., PySpark, DataRobot). |  
